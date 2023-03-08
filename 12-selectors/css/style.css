@@ -1,0 +1,27 @@
+/* Selector de tipo id */
+#contact-info {
+    font-size: 9pt;
+}
+
+#logo {
+    height: 80px;
+}
+
+/* Selector de tipo class */
+.p-header {
+    font-size: 10pt;
+    color: gray
+}
+
+/* Selector general por etiqueta */
+h1 {
+    color: darkcyan
+}
+
+main {
+    margin: 10px 50px;
+}
+
+footer {
+    text-align: center;
+}
