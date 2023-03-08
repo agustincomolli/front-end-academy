@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 /* Selector de tipo id */
 #contact-info {
     font-size: 9pt;
@@ -19,7 +20,11 @@ h1 {
 }
 
 main {
-    margin: 10px 50px;
+    margin: 10px 40px;
+    padding: 15px;
+    background-color:beige;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
 }
 
 footer {
